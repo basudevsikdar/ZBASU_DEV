@@ -1,0 +1,4 @@
+@EndUserText.label: 'Managed Service Definintion'
+define service ZSD_BDS_MANAGED_RAP {
+  expose ZC_BDS_TRAVEL;
+}
